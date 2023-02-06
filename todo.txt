@@ -1,0 +1,5 @@
+Adding firebase to android
+to ios
+to wep 
+firebase.initializeapp()->android ios 
+firebase.initializeapp(options:)
